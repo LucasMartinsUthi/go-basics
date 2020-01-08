@@ -1,8 +1,10 @@
 # go-basics
 This repository will be based on my learning process of go lang
 
+
 ## measure_converter
 > go run measure_converter.go  
+
 **Use of:**
 * Import of 'os' and 'strconv',  
 * Functions like os.Args() and strconv.ParseFloat()  
@@ -11,14 +13,18 @@ This repository will be based on my learning process of go lang
     * If, else if, else  
     * For  
 
+
 ## func
 > go run func.go  
+
 **Use of:**
 * Functions
 * strconv.ParseAtoi()
 
+
 ## quicksort
 > go run quicksort.go  
+
 **Use of:**
 * Blanck identifier '_'
 * Return types
