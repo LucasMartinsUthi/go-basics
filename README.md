@@ -3,7 +3,7 @@ This repository will be based on my learning process of go lang
 
 ## measure_converter
 > go run measure_converter.go
-#### Usage of:
+*Use of*:
 * Import of 'os' and 'strconv',  
 * Functions like os.Args() and strconv.ParseFloat()  
 * Error treatment with err != nil  
@@ -13,13 +13,13 @@ This repository will be based on my learning process of go lang
 
 ## func
 > go run func.go
-#### Usage of: 
+*Use of*:
 * Functions
 * strconv.ParseAtoi()
 
 ## quicksort
 > go run quicksort.go
-#### Usage of: 
+*Use of*:
 * Blanck identifier '_'
 * Return types
 * Make([]int, size)
